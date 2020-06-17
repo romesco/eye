@@ -1,0 +1,8 @@
+Compute
+=======
+
+.. toctree::
+   :hidden:
+   :glob:
+
+   *
