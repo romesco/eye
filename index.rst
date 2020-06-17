@@ -65,7 +65,7 @@ See the Python_ home page for info.
 
 One more |example| here.
 
-.. |example| image:: example.png
+.. |example| image:: _images/example.png
 
 
 
