@@ -1,5 +1,6 @@
-Useful Hardware List
-====================
+Components List
+===============
+
 =====		  ===== 		======
 Component     MSRP 		 	Notes 
 =====		  ===== 		======
