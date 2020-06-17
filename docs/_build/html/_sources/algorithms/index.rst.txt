@@ -1,10 +1,10 @@
-Hardware
+Algorithms
 ===============================
 .. toctree::
    :hidden:
    :glob:
     
-   ./*/index
    *
+   ./*/index
 
-Let's talk about hardware.
+Let's talk about algorithms. 
