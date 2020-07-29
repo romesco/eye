@@ -1,9 +1,0 @@
-Realsense
-=======
-
-.. toctree::
-   :hidden:
-   :glob:
-
-   *
-   ./*

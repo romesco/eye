@@ -5,6 +5,5 @@ Algorithms
    :glob:
     
    *
-   ./*/index
 
-Let's talk about algorithms. 
+A collection of algorithms you might be interested in.
