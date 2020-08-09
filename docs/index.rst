@@ -21,6 +21,7 @@ Contributing
     pip install -U sphinx
     pip install -U sphinx-autobuild
     # now in a background terminal window (or tmux pane), do:
+    cd eye/
     sphinx-autobuild docs _build/html -b html -p 8009
 
 3. Browse to:
