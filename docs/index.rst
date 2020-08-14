@@ -46,6 +46,9 @@ Contributing
 **Also:**
 `Very helpful link to read about formatting of .rst files <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html#inserting-code-and-literal-blocks>`_
 
-Example image |example| here.
+Primary Contributors:
+^^^^^^^^^^^^^^^^^^^^^^
 
-.. |example| image:: _images/example.png
+** Ramon (Yiren) Qu **
+** Adit Jha **
+
