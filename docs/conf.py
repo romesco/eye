@@ -21,8 +21,8 @@
 # -- Project information -----------------------------------------------------
 
 project = u'👁️ eye'
-copyright = u'2020, rosario'
-author = u'rosario'
+copyright = u'2020, rosario & ramon'
+author = u'rosario & ramon'
 
 # The short X.Y version
 version = u''
