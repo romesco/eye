@@ -20,7 +20,7 @@ ROS provides a native way which is image transport, which automatically subscrib
 We can create our own way to compressing the image and create another tunnel for communication outside of ROS. There is definitely a lot of pros and cons for this methods. Check here to send RGB+D image stream wireless with custom protocol. [https://github.com/ramonidea/wireless-data-transmission/tree/master/RealSense]
 
 Image Transport
-================================
+---------------------
 
 Tutorial
 http://wiki.ros.org/image_transport/Tutorials
@@ -39,7 +39,7 @@ http://wiki.ros.org/image_transport/Tutorials
 Not recommend to using CompressedDepth, since it would convert a 1D array to 3D array, which actually increase the bandwidth usage and decrease the speed of transmission. We should use custom lossless compression method for this. (We can just use Zlib to dump the depth image to a string format and decode it from the receiver back to image)
 
 Networking
-==================================
+---------------------
 Since the image steam takes up a lot of bandwidth of a network, we need to be careful about the settings of the network as well. 
 
 Every image is usually 480*640*3 as the common lab test size. And RGB+D camera provides another layer, which brings the raw image size to 480*640*4. 
